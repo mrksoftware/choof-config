@@ -20,7 +20,7 @@
   },
   "version": {
     "minSupported": null,
-    "recommended": null,
+    "recommended": "2.0.0",
     "storeUrlIos": "",
     "storeUrlAndroid": "https://play.google.com/store/apps/details?id=com.mrksoftware.choof"
   },
