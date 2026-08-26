@@ -1,0 +1,9 @@
+{
+  "name": "choof-config",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:rfi-place-ids": "node scripts/build-rfi-place-ids.mjs",
+    "publish:config": "node scripts/publish.mjs"
+  }
+}

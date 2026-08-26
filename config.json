@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "cacheEnabled": false,
+  "ttlSec": {
+    "solutions": 300,
+    "journey": 60,
+    "board": 30,
+    "stationsSearch": 86400,
+    "mapStations": 604800,
+    "nextTrains": 150
+  },
+  "boardRefetchSec": 10,
+  "carouselAutoAdvanceMs": 5000,
+  "directApi": {
+    "train": false,
+    "board": false,
+    "stations": false,
+    "nextTrains": false,
+    "solutions": false
+  },
+  "version": {
+    "minSupported": null,
+    "recommended": null,
+    "storeUrlIos": "",
+    "storeUrlAndroid": "https://play.google.com/store/apps/details?id=com.mrksoftware.choof"
+  },
+  "cacheVersions": {
+    "rfiPlaceIds": 1,
+    "stationsCatalog": 1,
+    "liveQueryCache": 1
+  }
+}
