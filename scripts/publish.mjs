@@ -6,7 +6,7 @@ const message = process.argv.slice(2).join(' ').trim() || `Update Choof config $
 
 for (const file of files) {
   const value = JSON.parse(await (await import('node:fs/promises')).readFile(file, 'utf8'));
-  if (file === 'config.json' && value.schemaVersion !== 2) throw new Error('config.json must use schemaVersion 2');
+  if (file === 'config.json' && value.schemaVersion !== 3) throw new Error('config.json must use schemaVersion 3');
 }
 
 execFileSync('git', ['add', ...repositoryFiles], { stdio: 'inherit' });

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "cacheEnabled": false,
   "ttlSec": {
     "solutions": 300,
@@ -28,5 +28,6 @@
     "rfiPlaceIds": 1,
     "stationsCatalog": 1,
     "liveQueryCache": 1
-  }
+  },
+  "maxManualSubscriptions": 5
 }
