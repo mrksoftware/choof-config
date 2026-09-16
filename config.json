@@ -1,33 +1,34 @@
 {
-  "schemaVersion": 3,
-  "cacheEnabled": false,
-  "ttlSec": {
-    "solutions": 300,
-    "journey": 60,
-    "board": 30,
-    "stationsSearch": 86400,
-    "mapStations": 604800,
-    "nextTrains": 150
-  },
-  "boardRefetchSec": 10,
-  "carouselAutoAdvanceMs": 5000,
-  "directApi": {
-    "train": false,
-    "board": false,
-    "stations": false,
-    "nextTrains": false,
-    "solutions": false
-  },
-  "version": {
-    "minSupported": null,
-    "recommended": "2.0.0",
-    "storeUrlIos": "https://apps.apple.com/it/app/choof/id0000000000",
-    "storeUrlAndroid": "https://play.google.com/store/apps/details?id=com.mrksoftware.choof"
-  },
-  "cacheVersions": {
-    "rfiPlaceIds": 1,
-    "stationsCatalog": 1,
-    "liveQueryCache": 1
-  },
-  "maxManualSubscriptions": 5
+    "schemaVersion":  3,
+    "cacheEnabled":  false,
+    "ttlSec":  {
+                   "solutions":  300,
+                   "journey":  60,
+                   "board":  30,
+                   "stationsSearch":  86400,
+                   "mapStations":  604800,
+                   "nextTrains":  150
+               },
+    "boardRefetchSec":  10,
+    "carouselAutoAdvanceMs":  5000,
+    "directApi":  {
+                      "train":  false,
+                      "board":  false,
+                      "stations":  false,
+                      "nextTrains":  false,
+                      "solutions":  false
+                  },
+    "version":  {
+                    "minSupported":  null,
+                    "recommended":  "2.0.0",
+                    "storeUrlIos":  "https://apps.apple.com/it/app/choof/id0000000000",
+                    "storeUrlAndroid":  "https://play.google.com/store/apps/details?id=com.mrksoftware.choof"
+                },
+    "cacheVersions":  {
+                          "rfiPlaceIds":  1,
+                          "stationsCatalog":  1,
+                          "liveQueryCache":  1
+                      },
+    "maxManualSubscriptions":  5,
+    "apiBaseUrl":  "https://api-choof.anivia.it"
 }
