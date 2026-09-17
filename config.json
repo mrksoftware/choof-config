@@ -19,7 +19,7 @@
                       "solutions":  false
                   },
     "version":  {
-                    "minSupported":  "2.0.0",
+                    "minSupported":  null,
                     "recommended":  null,
                     "storeUrlIos":  "https://apps.apple.com/it/app/choof/id0000000000",
                     "storeUrlAndroid":  "https://play.google.com/store/apps/details?id=com.mrksoftware.choof"
