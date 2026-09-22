@@ -30,5 +30,5 @@
                           "liveQueryCache":  1
                       },
     "maxManualSubscriptions":  5,
-    "apiBaseUrl":  "https://api-choof.anivia.it"
+    "apiBaseUrl":  "https://api-choof.mrksoftware.it"
 }
