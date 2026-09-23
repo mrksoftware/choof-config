@@ -26,7 +26,7 @@
                 },
     "cacheVersions":  {
                           "rfiPlaceIds":  1,
-                          "stationsCatalog":  1,
+                          "stationsCatalog":  2,
                           "liveQueryCache":  1
                       },
     "maxManualSubscriptions":  5,
